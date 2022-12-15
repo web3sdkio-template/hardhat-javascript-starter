@@ -9,6 +9,6 @@
     "hardhat": "^2.10.1"
   },
   "dependencies": {
-    "@web3sdkio/contracts": "^3"
+    "@web3sdkio/contracts": "^1.0.6"
   }
 }
